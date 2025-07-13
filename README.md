@@ -51,34 +51,34 @@ The goal of this project is to provide meaningful business insights from Zara’
 ---
 ## 📌 Business Implications:
 ### Strengths:
-1.Jackets are the strongest-performing category.
-2High promotion-driven sales indicate marketing effectiveness.
-3Excellent revenue vs. goal achievement.
+> Jackets are the strongest-performing category.
+> High promotion-driven sales indicate marketing effectiveness.
+> Excellent revenue vs. goal achievement.
 
 ### Opportunities:
-1.Female-oriented product sales are low – suggest expanding women’s product line and targeted campaigns.
-2.Sales volume has potential for improvement.
-3.Promotional strategies could be more data-driven based on seasonal spikes or gender behavior.
+> Female-oriented product sales are low – suggest expanding women’s product line and targeted campaigns.
+> Sales volume has potential for improvement.
+> Promotional strategies could be more data-driven based on seasonal spikes or gender behavior.
 
 ### Risks:
-1.Over-reliance on jacket sales and male customers.
-2.Potential plateauing if category diversification isn't improved.
+> Over-reliance on jacket sales and male customers.
+> Potential plateauing if category diversification isn't improved.
 
 ---
 
 ## 🧠 Recommendations:
 ### Target Women Customers:
-1.Enhance product offerings for women.
-2.Run gender-specific campaigns.
+> Enhance product offerings for women.
+> Run gender-specific campaigns.
 ### Boost Underperforming Categories:
-1.Analyze pricing, visibility, and promotion of jeans and t-shirts.
-2.Promotional Strategy Optimization:
-3.A/B test promotional campaigns to boost ROI.
-4.Study customer behavior for non-promotional purchases.
+> Analyze pricing, visibility, and promotion of jeans and t-shirts.
+> Promotional Strategy Optimization:
+> A/B test promotional campaigns to boost ROI.
+> Study customer behavior for non-promotional purchases.
 ### Seasonal Campaign Planning:
-1.Leverage the almost 50-50 seasonal split by planning timely campaigns during seasonal transitions.
+> Leverage the almost 50-50 seasonal split by planning timely campaigns during seasonal transitions.
 ### Product Position Experimentation:
-1.Dive deeper into how product position (online/offline) affects conversions and consider optimizing layout/display accordingly.
+> Dive deeper into how product position (online/offline) affects conversions and consider optimizing layout/display accordingly.
 
 ---
 ## 📍 Conclusion:
