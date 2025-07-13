@@ -14,6 +14,8 @@ The goal of this project is to provide meaningful business insights from Zara’
 ---
 ## 📊Dashboard Preview :
 ![WhatsApp Image 2025-07-13 at 11 45 26_313f94d1](https://github.com/user-attachments/assets/48a2e5c6-0b3d-4484-8105-edcfdb029be7)
+![WhatsApp Image 2025-07-13 at 11 46 04_2db6ecbb](https://github.com/user-attachments/assets/52eaa478-a3a6-4b33-901d-0d0db5c355ba)
+
 
 
 ---
