@@ -1,5 +1,3 @@
-# ZARA-SALES-ANALYSIS-DASHBOARD
-
 # 🧥 ZARA Sales Analysis Dashboard
 
 A dynamic and interactive sales dashboard built using **Power BI** to analyze and visualize Zara’s sales performance across multiple dimensions — product categories, gender, promotions, and seasonality.
